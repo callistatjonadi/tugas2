@@ -12,6 +12,6 @@ public class PrismaSegitiga {
 
     public void tampilkanVolumePrismaSegitiga(){
         hitungVolumePrismaSegitiga();
-        System.out.println("Volume Prisma Segitiga = " + volume + " cm3");
+        System.out.println("Volume (V) Prisma Segitiga: " + volume + " cm3");
     }
 }
